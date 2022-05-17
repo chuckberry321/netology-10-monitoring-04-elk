@@ -2,11 +2,11 @@
 
 # Задание 1
 
-  ![скриншот docker ps](pictures/screenshot_dockers.png)
+  [скриншот docker ps](pictures/screenshot_dockers.png)
   
-  ![скриншот kibana](pictures/screenshot_kibana.png)
+  [скриншот kibana](pictures/screenshot_kibana.png)
 
 
 # Задание 2
 
-  ![скриншот index-patterns logstash*](pictures/screenshot_index.png)
+  [скриншот index-patterns logstash*](pictures/screenshot_index.png)
